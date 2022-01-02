@@ -46,7 +46,7 @@ def entry():
         # used global keyword to  
         # use global variable 'i' 
         global i 
-        print(" BOOKING ROOMS") 
+        print(" PLAYER ENTRY ") 
         print(" ") 
         while 1: 
             n = str(input("Name: ")) 
